@@ -1,0 +1,2 @@
+## Instacart Market Basket Analysis
+The Instacart Market Basket Analysis was a competition hosted on [Kaggle](https://www.kaggle.com/c/instacart-market-basket-analysis). This project consists of data cleaning, exploratory data analysis, data visualization, feature dimension reduction using PCA, machine learning algorithms: Logistic Regression, Random Forest, XGBoost, LightGBM, and deep learning Keras models.
